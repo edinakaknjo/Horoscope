@@ -1,0 +1,24 @@
+﻿  Main.cpp
+C:\Users\User\source\repos\SejlaHoroskop\SejlaHoroskop\ResForm.h(80,42): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+  (compiling source file 'Main.cpp')
+  
+C:\Users\User\source\repos\SejlaHoroskop\SejlaHoroskop\ResForm.h(85,38): warning C4566: character represented by universal-character-name '\u010D' cannot be represented in the current code page (1252)
+  (compiling source file 'Main.cpp')
+  
+  MainForm.cpp
+C:\Users\User\source\repos\SejlaHoroskop\SejlaHoroskop\ResForm.h(80,42): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+  (compiling source file 'MainForm.cpp')
+  
+C:\Users\User\source\repos\SejlaHoroskop\SejlaHoroskop\ResForm.h(85,38): warning C4566: character represented by universal-character-name '\u010D' cannot be represented in the current code page (1252)
+  (compiling source file 'MainForm.cpp')
+  
+  ResForm.cpp
+C:\Users\User\source\repos\SejlaHoroskop\SejlaHoroskop\ResForm.h(80,42): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+  (compiling source file 'ResForm.cpp')
+  
+C:\Users\User\source\repos\SejlaHoroskop\SejlaHoroskop\ResForm.h(85,38): warning C4566: character represented by universal-character-name '\u010D' cannot be represented in the current code page (1252)
+  (compiling source file 'ResForm.cpp')
+  
+  Generating Code...
+  HoroscopeCalculator.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  SejlaHoroskop.vcxproj -> C:\Users\User\source\repos\SejlaHoroskop\x64\Debug\SejlaHoroskop.exe

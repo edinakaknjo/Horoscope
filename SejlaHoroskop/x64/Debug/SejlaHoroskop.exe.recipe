@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\User\source\repos\SejlaHoroskop\x64\Debug\SejlaHoroskop.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\User\source\repos\SejlaHoroskop\SejlaHoroskop\ResForm.resx</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\User\Desktop\horos.jpg</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\User\Desktop\VatraZnak.jpg</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\User\Desktop\VodaSlika.JPG</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\User\Desktop\ZemljaZnak.JPG</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\User\Desktop\ZrakZnak.JPG</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\User\source\repos\SejlaHoroskop\SejlaHoroskop\x64\Debug\SejlaHoroskop.ResForm.resources</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
